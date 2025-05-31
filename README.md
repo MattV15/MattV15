@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hello! I'm Matt Van Duyn, a junior transfer student majoring in Information Sciences!    
+# Hello! I'm Matt Van Duyn, a junior and transfer student majoring in Information Sciences at the University of Illinois at Urbana-Champaign
  <p align="center">
   <img src="2025-03-10 15_24_25.jpg" width="300" alt="Matt Van Duyn"/>
   <br>
