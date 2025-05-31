@@ -32,7 +32,7 @@ I graduated from College of DuPage in 2024 and transferred to University of Illi
   <br>
   <em></em>
 
-I also enjoy video games and reading. 
+I also enjoy video games and reading. lol
 
 
 📫How to reach me: mattvanduyn04@gmail.com  
