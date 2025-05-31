@@ -28,7 +28,7 @@ I graduated from College of DuPage in 2024 and transferred to University of Illi
 
 ⚡A fun fact about me is I have a _very_ cute dog!  
 <p align="center">
-  <img src="Rosie.jpg" width="300" alt="Rosie Dog Picture"/>
+  <img src="IMG_0949.jpg" width="300" alt="Rosie Dog Picture"/>
   <br>
   <em></em>
 
